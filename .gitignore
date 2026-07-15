@@ -1,0 +1,17 @@
+# 第三方工具链 / SDK / 工具(体积大,可从原始渠道重新获取)
+toolchain-sunxi-glibc-gcc-830.tar.gz
+cmake-3.15.3-Linux-x86_64.tar.gz
+app_sdk_v2.tar.gz
+PhoenixSuit/
+PhoenixSuit.zip
+platform-tools/
+platform-tools.zip
+usbdriver_V1.0.0.3/
+usbdriver_V1.0.0.3.zip
+
+# 已解压目录的重复压缩包
+app4.rar
+res.rar
+bootlogo.rar
+图片资源.rar
+素材.rar
